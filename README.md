@@ -9,6 +9,4 @@ This notebook contain the following:
 
 3. A Prophet forecast model that can predict hourly user search traffic.
 
-4. Answers to the questions in the instructions that you write in your Jupyter notebook.
-
-5. A plot of a forecast for the company’s future revenue.
+4. A plot of a forecast for the company’s future revenue.
